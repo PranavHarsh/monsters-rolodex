@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MONSTERS-FRIENDS/static/css/main.26850d11.chunk.css",
+    "main.js": "/MONSTERS-FRIENDS/static/js/main.17c5c261.chunk.js",
+    "main.js.map": "/MONSTERS-FRIENDS/static/js/main.17c5c261.chunk.js.map",
+    "runtime-main.js": "/MONSTERS-FRIENDS/static/js/runtime-main.7e060a3b.js",
+    "runtime-main.js.map": "/MONSTERS-FRIENDS/static/js/runtime-main.7e060a3b.js.map",
+    "static/js/2.b4309f00.chunk.js": "/MONSTERS-FRIENDS/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/MONSTERS-FRIENDS/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/MONSTERS-FRIENDS/index.html",
+    "precache-manifest.600881dbc982acf51d6db06f3dbe9bd0.js": "/MONSTERS-FRIENDS/precache-manifest.600881dbc982acf51d6db06f3dbe9bd0.js",
+    "service-worker.js": "/MONSTERS-FRIENDS/service-worker.js",
+    "static/css/main.26850d11.chunk.css.map": "/MONSTERS-FRIENDS/static/css/main.26850d11.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/MONSTERS-FRIENDS/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e060a3b.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.26850d11.chunk.css",
+    "static/js/main.17c5c261.chunk.js"
+  ]
+}
